@@ -1,6 +1,8 @@
 # React-Practical-2
 
+
 ## Output:
+![Screenshot from 2022-02-23 15-07-34](https://user-images.githubusercontent.com/68768212/155301428-beba4264-980f-4c16-957a-4657c43c3059.png)
 
 #### What is Webpack?
 =>Webpack is a static module bundler for JavaScript applications — it takes all the code from your application and makes it usable in a web browser.When Webpack processes your application, it builds a dependency graph which maps out the modules that your project needs and generates one or more bundles.
